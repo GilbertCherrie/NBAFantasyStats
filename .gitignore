@@ -1,2 +1,3 @@
 *.txt
 *.ipnyb_checkpoints/
+*.json
